@@ -1,5 +1,4 @@
 # A blog page
-![Demo Image](/blog demo.jpeg)
 ![blog demo](https://user-images.githubusercontent.com/76962685/189488190-5379cf92-cdd1-47c4-861e-6aa47809e688.jpeg)
 
 This blog page allows anyone to write a blog for others to see. It also allows for the blog to be either edited and deleted.
