@@ -22,4 +22,4 @@ The backend of this project is made using the **Flask** library of python and th
 * If you want to edit anything about the blog,  click the `Edit` button which will open the edit page with the same text boxes which are prefilled with the details that you entered. Make the changes that you need and click on the `Submit` button which will update the blog displayed in the Home page. 
 
 ## Credits
-This project was made by referencing and changing upon the concepts learnt from [this vedio](https://www.youtube.com/watch?v=oA8brF3w5XQ) on [codewithharry's](https://github.com/CodeWithHarry) [YouTube channel](https://www.youtube.com/c/CodeWithHarry)
+This project was made by referencing and applying the concepts learnt from [this vedio](https://www.youtube.com/watch?v=oA8brF3w5XQ) on [codewithharry's](https://github.com/CodeWithHarry) [YouTube channel](https://www.youtube.com/c/CodeWithHarry)
