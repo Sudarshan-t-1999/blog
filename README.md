@@ -16,7 +16,7 @@ The backend of this project is made using the **Flask** library of python and th
 * This will load a page identical to the one shown in the image above.
 
 ## How to use the Blog?
-* You can type your Name, Title and Content of the blog then click on submit.
+* Enter your Name, Title and Content of the blog then click on submit.
 * After that the warning box will disappear and your blog will be added in its place.
 * You can delete the blog from the page if you want by clicking on the `Delete` button.
 * If you want to edit anything about the blog,  click the `Edit` button which will open the edit page with the same text boxes which are prefilled with the details that you entered. Make the changes that you need and click on the `Submit` button which will update the blog displayed in the Home page. 
